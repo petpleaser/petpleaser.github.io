@@ -1,4 +1,4 @@
-/*
+/* /* 
 
 Template 2106 Soft Landing
 
@@ -450,10 +450,6 @@ article {
       ABOUT              
   -----------------------------------------*/
 
-  #about .col-md-4 {
-    margin: 0;
-    padding: 0;
-  }
 
   .team-thumb {
     background: #ffffff;
@@ -518,11 +514,7 @@ article {
     background: #ffffff;
   }
 
-  #testimonial .col-md-6 {
-    margin: 0;
-    padding: 0;
-  }
-
+  
   #testimonial .section-title {
     padding-bottom: 0;
   }
@@ -588,14 +580,9 @@ article {
     text-align: center;
   }
 
-  #pricing .col-md-4 {
-    margin: 0;
-    padding: 0;
-  }
 
-  #pricing .col-md-4:last-child .pricing-thumb {
-    border-right: 0;
-  }
+
+
 
   .pricing-thumb {
     background: #ffffff;
@@ -642,10 +629,7 @@ article {
       CONTACT             
   -----------------------------------------*/
 
-  #contact-form .col-md-12,
-  #contact-form .col-md-4 {
-    padding-left: 0;
-  }
+
 
   #contact-form .form-control {
     background: transparent;
@@ -814,13 +798,7 @@ article {
       bottom: 0;
     }
 
-    #about .col-md-4:nth-child(3n) .team-thumb {
-      display: flex;
-      -webkit-box-orient: vertical;
-      flex-direction: column-reverse;
-      -webkit-flex-direction: column-reverse;
-      -ms-flex-direction: column-reverse;
-    }
+
 
     .team-thumb-down:after {
       top: -15px;
@@ -873,4 +851,4 @@ section.visible {
 opacity: 1;
 transform: translate(0, 0); 
 }
-
+ */
